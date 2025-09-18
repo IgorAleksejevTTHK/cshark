@@ -1,5 +1,5 @@
 namespace Kordamine;
-
+ 
 internal class Osa5
 {
      public class Inimene // osa5 ulesanne #1

@@ -82,3 +82,4 @@ public class Osa2_funktsioonid
             return ticket;
         }
 }
+ 

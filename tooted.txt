@@ -1,0 +1,6 @@
+Õun,2
+Leib,25
+Supp,15
+Banaan,10
+Juustuburger,31
+Tomat,4

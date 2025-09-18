@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\startclass-oop\obj\Debug\net8.0\startclass-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\startclass-oop\obj\Debug\net8.0\startclass-oop.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\startclass-oop\obj\Debug\net8.0\startclass-oop.AssemblyInfo.cs
+C:\Users\opilane\source\repos\startclass-oop\obj\Debug\net8.0\startclass-oop.csproj.CoreCompileInputs.cache

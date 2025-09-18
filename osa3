@@ -90,7 +90,7 @@ namespace Kordamine
                 Vanus = vanus;
             }
         }
-
+ 
         public static class Statistika
         {
             public static void TeeStatistika(List<Inimene> inimesed)

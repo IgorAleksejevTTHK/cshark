@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.AssemblyInfo.cs
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.sourcelink.json
+C:\Users\opilane\source\repos\c#\soidukid\bin\Debug\net9.0\soidukid.exe
+C:\Users\opilane\source\repos\c#\soidukid\bin\Debug\net9.0\soidukid.deps.json
+C:\Users\opilane\source\repos\c#\soidukid\bin\Debug\net9.0\soidukid.runtimeconfig.json
+C:\Users\opilane\source\repos\c#\soidukid\bin\Debug\net9.0\soidukid.dll
+C:\Users\opilane\source\repos\c#\soidukid\bin\Debug\net9.0\soidukid.pdb
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.dll
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\refint\soidukid.dll
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.pdb
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\soidukid.genruntimeconfig.cache
+C:\Users\opilane\source\repos\c#\soidukid\obj\Debug\net9.0\ref\soidukid.dll
